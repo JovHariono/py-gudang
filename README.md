@@ -13,6 +13,9 @@ Aplikasi Python untuk stok gudang
 python warehouse_inventory.py
 
 
+
+
+
 Main Menu
 === SISTEM GUDANG ===
 
