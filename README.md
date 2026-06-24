@@ -10,9 +10,7 @@ Aplikasi Python untuk stok gudang
 - Item code format validation using Regular Expression
 
 **Run Application**
-python warehouse_inventory.py
-
-
+  python warehouse_inventory.py
 
 
 
