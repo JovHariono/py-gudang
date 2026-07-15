@@ -141,6 +141,11 @@ def updateBarang():
 
 def updateBarangProses():
     lihatSemuaBarang()
+
+    if not gudang:
+        print("Tidak ada barang di gudang!")
+        return
+    
     kode = input("Masukkan kode barang yang ingin diupdate: ").upper()
 
     if kode not in gudang:
