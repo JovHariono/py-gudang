@@ -87,6 +87,3 @@ gudang = {
 * Data akan hilang saat program ditutup
 * Belum menggunakan database
 * Single user application
-
-```
-```
