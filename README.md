@@ -15,7 +15,7 @@ Aplikasi Python sederhana untuk mengelola stok gudang melalui Command Line Inter
 ## Run Application
 
 ```bash
-python warehouse_inventory.py
+python 0008_Jovan.py
 ```
 
 ## Main Menu
